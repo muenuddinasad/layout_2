@@ -1,0 +1,166 @@
+.header
+{
+	background-color: red;
+	min-height: 80px;
+	overflow: hidden;
+}
+.logo
+{
+	border: 3px solid black;
+	min-height: 70px;
+	width: 15%;
+	margin-top: 3px;
+	float: left;
+}
+.menu
+{
+	/*border: 3px solid white;*/
+	margin-top: 5px;
+	min-height: 70px; 
+	width: 50%;
+	float: right;
+}
+.se
+{
+	min-height: 60px;
+	background-color: white;
+	float: right;
+	margin-top: 5px;
+
+}
+.sec1
+{
+	width: 19%;
+	margin-right: 5px;
+	margin-left: 3px;
+}
+.sec2
+{
+	width: 19%;
+	margin-left: 3px;
+}
+.sec3
+{
+	width: 19%;
+	margin-left: 3px;
+}
+.sec4
+{
+	width: 19%;
+	margin-left: 3px;
+}
+.sec5
+{
+	width: 19%;
+	margin-left: 3px;
+}
+
+.banner
+{
+	background-color: #A5B9B7;
+	overflow: hidden;
+	min-height: 300px;
+}
+
+.banner_content
+{
+	width: 40%;
+	min-height: 100px;
+	border: 2px solid black;
+	margin: 100px auto;
+}
+.services
+{
+	min-height: 390px;
+	background-color: #5A4C4B;
+	padding: 20px;
+}
+.service
+{
+	/*border: 1px solid red;*/
+	min-height: 200px;
+	/*margin-bottom: 10px; */
+	padding: 10px;
+	overflow: hidden;
+}
+.s1
+{
+	width: 21%;
+	float: left;
+	min-height: 200px;
+	/*border: 1px solid white;*/
+	background-color: #E0DCD9;
+	padding: 10px;
+	margin-left: 2%;
+}
+.icon
+{
+	/*min-height: 50px;*/
+	/*background-color: white;*/
+	overflow: hidden;
+	margin-bottom: 3px;
+}
+.p1
+{
+	background-color: #ACACAE;
+	min-height: 50px;
+	float: left;
+	width: 15%;
+}
+.p2
+{
+	background-color: #FCCFA5;
+	min-height: 50px;
+	float: right;
+	width: 83%;
+}
+.content
+{
+	/*border: 1px solid red;*/
+	min-height: 150px;
+}
+.d1
+{
+   min-height: 100px;
+   background-color: #A9A4A1;
+   margin:6px auto;
+}
+.d2
+{
+  min-height: 30px;
+  background-color: #D08840;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.contacts
+{
+	margin-top: 9px;
+	background-color: #893533;
+	min-height: 120px;
+	padding: 10px;
+	overflow: hidden;
+}
+.con1
+{
+	min-height: 60px;
+	/*border: 3px solid white;*/
+	margin:30px auto;
+	float: left;
+	width: 19%;
+	margin-left: 10px;
+}
+.fs
+{
+	min-height: 60px;
+	background-color: #A9403D;
+}
+.di1
+{
+	width: 18%;
+	float: left;
+}
+.di2
+{
+	width: 80%;
+	float: right;
+}
